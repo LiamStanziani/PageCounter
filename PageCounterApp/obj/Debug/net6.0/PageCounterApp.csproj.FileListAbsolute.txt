@@ -1,0 +1,78 @@
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\appsettings.Development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\appsettings.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.staticwebassets.runtime.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.exe
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.deps.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.runtimeconfig.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\scopedcss\bundle\PageCounterApp.styles.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\scopedcss\projectbundle\PageCounterApp.bundle.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\refint\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.genruntimeconfig.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounterApp\obj\Debug\net6.0\ref\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\appsettings.Development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\appsettings.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.staticwebassets.runtime.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.exe
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.deps.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.runtimeconfig.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\bin\Debug\net6.0\PageCounterApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\scopedcss\bundle\PageCounterApp.styles.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\scopedcss\projectbundle\PageCounterApp.bundle.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\refint\PageCounterApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\PageCounterApp.genruntimeconfig.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class1\PageCounter - Copy\PageCounterApp\obj\Debug\net6.0\ref\PageCounterApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\appsettings.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.staticwebassets.runtime.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\bin\Debug\net6.0\PageCounterApp.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.RazorAssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\scopedcss\bundle\PageCounterApp.styles.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\scopedcss\projectbundle\PageCounterApp.bundle.scp.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\refint\PageCounterApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\PageCounterApp.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass1\PageCounterApp\obj\Debug\net6.0\ref\PageCounterApp.dll

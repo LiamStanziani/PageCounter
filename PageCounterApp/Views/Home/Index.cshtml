@@ -1,0 +1,13 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h6 class="display-4">Welcome to the Home Page</h6>
+    @*Shows the amount of view for the page*@
+    <p> This homepage has been viewed <strong>@Model Times</strong></p>
+    @*Links to the Second Page*@
+    Go to <a asp-controller="Home" asp-action="SecondPage"> the other page</a>
+</div>
